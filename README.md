@@ -19,7 +19,7 @@ To utilize the MATLAB implementation, clone the repository and execute the main 
 
 A real-time audio plug-in implementing the proposed explicit Wave Digital model is available in the `Plug-in` folder. The plug-in is built using the [JUCE framework](https://juce.com) and provides an efficient real-time emulation of the Fulltone OCD overdrive pedal based on the 1NL approximation (using Canonical Piecewise-Linear functions).
 
-[Plug-in](plugin.png "Use of the Fulltone OCD Plug-in in a DAW.")
+![Plug-in](plugin.png)
 
 ## Citation
 
@@ -32,5 +32,6 @@ If you use this repository in your research, please cite:
   booktitle = {Proceedings of the 29th International Conference on Digital Audio Effects (DAFx-26)},
   year      = {2026},
   address   = {Cambridge, MA, USA}
+  month     = {Sept}
 }
 ```
