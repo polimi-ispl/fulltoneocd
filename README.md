@@ -31,7 +31,7 @@ If you use this repository in your research, please cite:
   title     = {Explicit Wave Digital Model of the Fulltone OCD Pedal Based on Canonical Piecewise-Linear Functions},
   booktitle = {Proceedings of the 29th International Conference on Digital Audio Effects (DAFx-26)},
   year      = {2026},
-  address   = {Cambridge, MA, USA}
+  address   = {Cambridge, MA, USA},
   month     = {Sept}
 }
 ```
