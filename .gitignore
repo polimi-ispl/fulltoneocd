@@ -1,0 +1,21 @@
+# macOS
+.DS_Store
+**/.DS_Store
+
+# JUCE / build artifacts
+**/Builds/*/build/
+**/Build/
+**/Builds/MacOSX/build/
+**/Builds/VisualStudio*/
+**/JuceLibraryCode/
+**/DerivedData/
+*.o
+*.obj
+
+# Xcode user data
+**/*.xcodeproj/xcuserdata/
+**/*.xcworkspace/xcuserdata/
+
+# MATLAB
+*.asv
+matlab_crash_dump.*
